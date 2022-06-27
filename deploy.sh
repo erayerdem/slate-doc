@@ -5,7 +5,7 @@ me=$(basename "$0")
 help_message="\
 Usage: $me [-c FILE] [<options>]
 Deploy generated dasdasfiles to a git branch.
-
+dasda
 Options:
 
   -h, --help               Show this help information.
