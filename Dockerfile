@@ -5,7 +5,7 @@ WORKDIR /srv/slate
 VOLUME /srv/slate/build
 VOLUME /srv/slate/source
 
-EXPOSE 1
+EXPOSE 2
 
 COPY Gemfile .
 COPY Gemfile.lock .
